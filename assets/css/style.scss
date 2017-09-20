@@ -2,3 +2,174 @@
 ---
 
 @import "{{ site.theme }}";
+
+html{
+	background:#000 repeat-x;
+	 color:#4d4ddb;
+	font-size:1.2em;
+}
+
+body{
+	font-size:0.93em;
+	margin:0;
+	padding:0;
+	background:repeat-y top center;
+	font-family: Lucida Grande, Lucida Sans Unicode, Lucida Sans, Geneva, Arial, Helvetica, Tahoma, sans-serif;
+}
+
+#page_contain {
+	margin:auto;
+	width:900px;
+	background: repeat-y #000;
+	color: #fff
+	position:relative;
+	margin-bottom:15px;
+}
+
+
+#page_contain_nosidebar {
+	margin:auto;
+	width:900;
+	background-color: white;
+	position:relative;
+	margin-bottom:15px;
+}
+
+
+#page_contain_nosidebar #middle,
+#page_contain_nosidebar #middle-no-menu
+{
+	width:900px;
+}
+/*** For hiding the text alternative for text graphics #000066 ***/
+
+.accessible-text {
+  position: absolute;
+  left: -3000px;
+}
+  
+
+
+/* Additional Classes */
+.hide{
+	display: none;
+}
+
+a {
+	color:#007C07;
+    border-bottom: dotted 1px #000066;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#e51;
+	border-bottom:dotted 1px #000066;
+	    text-decoration: none;
+
+
+}
+
+blockquote p {
+	padding:15px;
+}
+*/
+p {
+	padding:0;
+	margin:0px 0px 1em 0px;
+}
+
+strong {
+	font-weight:bold;
+}
+
+em {
+	font-style:italic;
+}
+
+
+/* Header */
+#dochead {
+	background:url("iitm_dept_logo_banner.jpg") no-repeat;
+	width:1000x; /* Change here*/
+	height:120px;  /*Change here*/
+	position:relative;
+}
+
+#dochead #mark a {
+	border:none;
+	background:url("../../images/style/mark.gif");
+	display:-moz-inline-box;
+	display:inline-block;
+	width:190px;
+	height:58px;
+	margin:25px 0 0 25px;
+}
+
+#dochead #mark a img {
+	display:none;
+	margin:0px;
+}
+
+
+
+.main {
+	margin: 0 10px 0 10px;
+}
+
+#header_pagetitle {
+	position:absolute;
+	bottom:10px;
+	margin:0;
+	padding:0px;
+	left:243px;
+	font-size:2em;
+	width:474px;
+	font-weight:normal;
+}
+
+#header_pagetitle a { color: #fff; border: none; }
+
+a:hover #header_pagetitle {
+	color: #c8c8c8;
+}
+
+
+#middle .main h1,
+#middle-no-menu .main h1
+ {
+	font-size:1.5em;
+	color:#000066;
+	margin:10px 0px 10px 0px;
+	padding:0px;
+	border-bottom:solid 1px #999;
+	font-weight:normal;
+}
+
+#middle .main h2,
+#middle-no-menu .main h2
+{
+	font-size:1.1em;
+	color:#333;
+	font-weight:bold;
+}
+
+#middle .main h3,
+#middle-no-menu .main h3
+{
+	font-size:1.5em;
+	color:#123;
+	font-weight:bold;
+}
+
+#frontpage_image {
+	border: none;
+	margin: 0;
+	padding: 0;
+	float: left;
+}
+
+
+h4 {
+	color:#333;
+	margin: 0 0 1em 0;
+}
