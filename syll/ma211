@@ -1,0 +1,15 @@
+---
+title: MA221 Introduction to Real Analysis
+---
+# MA221 Introduction to Real Analysis (Credits: 06)
+## Program: B.Sc. Third Semester                                            
+
+*Real number system:* Algebraic and Order Properties of R, delta-neighborhood of a point in R, Idea of countable sets, uncountable sets and uncountability of R, Bounded above sets, Bounded below sets, Bounded Sets, Unbounded sets, Suprema and Infima, The Completeness Property of R, The Archimedean Property, Density of Rational (and Irrational) numbers in R, Intervals, Limit points of a set, Isolated points, Illustrations of Bolzano-Weierstrass theorem for sets. 
+
+*Sequence and series:* Sequences, Bounded sequence, Convergent sequence, Limit of a sequence. Limit Theorems, Monotone Sequences, Monotone Convergence Theorem. Subsequences, Divergence Criteria, Monotone Subsequence Theorem (statement only), Bolzano Weierstrass Theorem for Sequences, Cauchy sequence, Cauchy’s Convergence Criterion, Infinite series, convergence and divergence of infinite series, Cauchy Criterion,Tests for convergence: Comparison test, Limit Comparison test, Ratio Test, Cauchy’s nth root test, Integral test, Alternating series, Leibniz test, Absolute and Conditional convergence, Uniform continuity, non-uniform continuity criteria, uniform continuity theorem.
+
+*Riemann integration:* inequalities of upper and lower sums; Riemann conditions of integrability. Riemann sum and definition of Riemann integral through Riemann sums; equivalence of two definitions; Riemann integrability of monotone and continuous functions, Properties of the Riemann integral; definition and integrability of piecewise continuous and monotone functions, Intermediate Value theorem for Integrals; Fundamental theorem.
+
+Books Recommended:
+- R.G. Bartle and D. R. Sherbert, Introduction to Real Analysis (3rd Edition), John Wiley and Sons (Asia) Pvt. Ltd., Singapore, 2002.
+- K.A. Ross, Elementary Analysis-The Theory of Calculus Series-Undergraduate Texts in Mathematics, Springer Verlag, 2003.
