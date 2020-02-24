@@ -7,3 +7,8 @@ Q. The rate of change of the comcentration of pollution in a lake is equal to th
 >> c. The fastest possible cleanup of the lake will occur if all pollution inflow ceases. This is represented by C=0. If all pollution into the lake was stopped immediately, how long would it take to reduce pollution to 50% of its current value.
 
 >> d. Use the computer to graph your solution for the first 100 years after pollution stops. What happens to the concentration as time goes on.
+
+
+
+## Maple solution
+- [Download](lake-pollution-model.mw)
