@@ -12,3 +12,6 @@ Q. The rate of change of the comcentration of pollution in a lake is equal to th
 
 ## Maple solution
 - [Download](lake-pollution-model.mw)
+
+## Additional Methods
+- [Download](lake-extra.mw)
