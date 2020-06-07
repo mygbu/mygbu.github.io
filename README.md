@@ -1,5 +1,9 @@
 # Gautam Buddha University
 
+## Ph.D. Syllabus
+ - Since Jul 2019
+   [AS-601 Research Methodology](/syll/AS601-Jul19.docx)
+
 ## B.Sc. (Hons) Mathematics Syllabus 2019-20
 - [Program Structure and First Semester Syllabus](/syll/BMH-First-Semester.pdf)
 
