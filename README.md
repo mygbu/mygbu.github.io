@@ -1,5 +1,8 @@
 # Gautam Buddha University
 
+## M.Sc. Dissertation Format
+ - [Sample Word File](/syll/Master-dissertationdFormat.docx) 
+
 ## Ph.D. Syllabus
  - Since Jul 2019
  - - [AS-601 Research Methodology](/syll/AS601-Jul19.docx)
