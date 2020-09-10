@@ -22,7 +22,12 @@
 - [MA211 - Introduction to Real Analysis](/syll/ma211)
 - [MA401 - Linear Algebra](/syll/ma401)
 
+# Old Syllabus
+## B.Tech. 2011 Batch
+- [MA201 - Quantative Techniques](/syll/Batch-2011/MA201-QT.pdf)
 
+## B.Tech. 2012 Batch
+- [MA201 - Quantative Techniques](/syll/Batch-2012/MA201-EM.pdf)
 
 
 
