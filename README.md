@@ -27,7 +27,7 @@
 - [MA201 - Quantative Techniques](/syll/Batch-2011/MA201-QT.pdf)
 
 ## B.Tech. 2012 Batch
-- [MA201 - Quantative Techniques](/syll/Batch-2012/MA201-EM.pdf)
+- [MA201 - Quantative Techniques/Engineering Mathematics-III](/syll/Batch-2012/MA201-EM.pdf)
 
 
 
