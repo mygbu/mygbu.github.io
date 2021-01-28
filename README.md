@@ -29,8 +29,8 @@
 ## B.Tech. 2012 Batch
 - [MA201 - Quantative Techniques/Engineering Mathematics-III](/syll/Batch-2012/MA201-EM.pdf)
 
-
-
+## B.Tech. 2013 Batch
+- [All B.Tech Syllabus](/syll/B.Tech%2BM.Tech!MBA.pdf)
 
 
 
